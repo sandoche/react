@@ -1,0 +1,41 @@
+{
+  "repository": "sandoche/react",
+  "pr": 1,
+  "formats": {
+    "walkthrough": {
+      "download": "walkthrough.html.zip",
+      "originalHtmlSha256": "047c87928dcf7dfb2dc24993cbcbc31f7f2f9c0a17d6111bdb850b94bc3b807e",
+      "sourceHead": "575477a2e8f9db57ef4a1bf0d3b449e4f8244af8",
+      "contextHash": "ec23463eedd3df46a881a81b38d486e8f7b2d1ff6fae59d7e01b6f4800eef174"
+    },
+    "reverse-design": {
+      "download": "reverse-design.html.zip",
+      "originalHtmlSha256": "8ca0f05ce3f56d68d21503f4bc6c3d47c930a3aa85b297a13d9b72dfed50ca78",
+      "sourceHead": "575477a2e8f9db57ef4a1bf0d3b449e4f8244af8",
+      "contextHash": "ec23463eedd3df46a881a81b38d486e8f7b2d1ff6fae59d7e01b6f4800eef174"
+    },
+    "code-map": {
+      "download": "code-map.html.zip",
+      "originalHtmlSha256": "0166087d07b371c668275371549eb755a5358f96005d9a6ff3e06abc0ff34512",
+      "sourceHead": "575477a2e8f9db57ef4a1bf0d3b449e4f8244af8",
+      "contextHash": "ec23463eedd3df46a881a81b38d486e8f7b2d1ff6fae59d7e01b6f4800eef174"
+    },
+    "review-quiz": {
+      "download": "review-quiz.html.zip",
+      "originalHtmlSha256": "0be164d16369d4416b316a3968eaded34f274bfeba2b919ecbc4e90374841597",
+      "sourceHead": "575477a2e8f9db57ef4a1bf0d3b449e4f8244af8",
+      "contextHash": "ec23463eedd3df46a881a81b38d486e8f7b2d1ff6fae59d7e01b6f4800eef174"
+    },
+    "xkcd": {
+      "download": "xkcd.html.zip",
+      "originalHtmlSha256": "0fbd1d5b8fe8e11d9f8746e02ca953f8df05b4913cfccafaa26cfc1e88089a4c",
+      "sourceHead": "575477a2e8f9db57ef4a1bf0d3b449e4f8244af8",
+      "contextHash": "ec23463eedd3df46a881a81b38d486e8f7b2d1ff6fae59d7e01b6f4800eef174",
+      "images": [
+        "comic-01.png",
+        "comic-02.png",
+        "comic-03.png"
+      ]
+    }
+  }
+}
